@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Universidad de Las Palmas de Gran Canaria · Spain
+  Universidad de Las Palmas de Gran Canaria
 </p>
 
 ---
