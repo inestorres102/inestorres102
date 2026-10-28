@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi, I'm Inés 👋</h1>
+<h1 align="center">Inés Torres Sánchez</h1>
 
 <h3 align="center">
-  Data Science and Data Engineering Student
+  Estudiante de Ciencia e Ingeniería de Datos
 </h3>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 ---
 
-### 👩🏻‍💻 About me
+### 👩🏻‍💻 Sobre mí
 
-- 🎓 Studying Data Science and Data Engineering at ULPGC.
-- 📊 Interested in Data Science and Data Analytics.
-- 🤖 Exploring Machine Learning and Intelligent Systems.
-- 🌱 Learning and developing my technical skills.
+- 🎓 Estudiando Ciencia e Ingeniería de Datos en la ULPGC
+- 📊 Interesada en Data Science y Data Analytics
+- 🤖 Aprendiendo Machine Learning y Sistemas Inteligentes
+- 🌱 Aprendiendo y desarrollando mis habilidades técnicas
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologías y Herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,r,sql,git,github,vscode,idea,jupyter" alt="Technologies and tools" />
@@ -28,9 +28,9 @@
 
 **Other tools:** SQL, Jupyter Notebook, IntelliJ IDEA, Visual Studio Code.
 
-### 🎯 Areas of interest
+### 🎯 Áreas de interés
 
-- Data Analysis & Visualization
+- Data Analysis & Visualización
 - Machine Learning
-- Statistical Analysis
-- Intelligent Systems
+- Análisis Estadístico
+- Sistemas Inteligentes
