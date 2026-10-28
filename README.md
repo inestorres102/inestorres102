@@ -13,10 +13,10 @@
 
 ### 👩🏻‍💻 About me
 
-- 🎓 Studying Data Science and Data Engineering at ULPGC.
-- 📊 Interested in Data Science and Data Analytics.
-- 🤖 Exploring Machine Learning and Intelligent Systems.
-- 🌱 Learning and developing my technical skills.
+- Studying Data Science and Data Engineering at ULPGC.
+- Interested in Data Science and Data Analytics.
+- Exploring Machine Learning and Intelligent Systems.
+- Learning and developing my technical skills.
 
 ### 🛠️ Technologies
 
