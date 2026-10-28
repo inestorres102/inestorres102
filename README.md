@@ -13,18 +13,20 @@
 
 ### 👩🏻‍💻 About me
 
-- Studying Data Science and Data Engineering at ULPGC.
-- Interested in Data Science and Data Analytics.
-- Exploring Machine Learning and Intelligent Systems.
-- Learning and developing my technical skills.
+- 🎓 Studying Data Science and Data Engineering at ULPGC.
+- 📊 Interested in Data Science and Data Analytics.
+- 🤖 Exploring Machine Learning and Intelligent Systems.
+- 🌱 Learning and developing my technical skills.
 
-### 🛠️ Technologies
+### 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode" alt="Technology icons" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,sql,git,github,vscode,idea,jupyter" alt="Technologies and tools" />
 </p>
 
-**Also working with:** SQL, pandas, NumPy, scikit-learn and Matplotlib.
+**Data Science libraries:** pandas, NumPy, scikit-learn, Matplotlib.
+
+**Other tools:** SQL, Jupyter Notebook, IntelliJ IDEA, Visual Studio Code.
 
 ### 🎯 Areas of interest
 
