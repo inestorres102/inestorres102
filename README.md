@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**inestorres102/inestorres102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Inés 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Data Science and Data Engineering Student
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Universidad de Las Palmas de Gran Canaria · Spain
+</p>
+
+---
+
+### 👩🏻‍💻 About me
+
+- 🎓 Studying Data Science and Data Engineering at ULPGC.
+- 📊 Interested in Data Science and Data Analytics.
+- 🤖 Exploring Machine Learning and Intelligent Systems.
+- 🌱 Learning and developing my technical skills.
+
+### 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode" alt="Technology icons" />
+</p>
+
+**Also working with:** SQL, pandas, NumPy, scikit-learn and Matplotlib.
+
+### 🎯 Areas of interest
+
+- Data Analysis & Visualization
+- Machine Learning
+- Statistical Analysis
+- Intelligent Systems
